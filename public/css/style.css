@@ -1,0 +1,16 @@
+.navbar-nav li {
+    padding: 0 1.5rem;
+}
+.navbar-nav li a {
+    color: white !important;
+}
+.navbar-nav li a:hover {
+    color: black !important;
+    font-weight: 600;
+}
+.navbar-ungu {
+    background-image: linear-gradient(
+        rgba(112.520718, 44.062154, 249.437846, 1),
+        rgba(112.520718, 44.062154, 249.437846, 0.95)
+    ) !important;
+}
